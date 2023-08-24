@@ -1,6 +1,6 @@
-# shop_app
+# RE-SELLERS
 
-A new Flutter project.
+An E-Commerce Shop App Flutter project , Using HTTP & Provider .
 
 ## Getting Started
 
