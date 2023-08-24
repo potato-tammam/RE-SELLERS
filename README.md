@@ -21,7 +21,7 @@ users can also search for products using title or price .
 ### In the Lib folder : 
 
 -the Core folder contains the main colors and text styles uesd in this project .
--the Models folder contains the class models for each main obk=ject of this project .
+-the Models folder contains the class models for each main object of this project .
 -the Providers folder contains the provider used to get information from the Backend created by my associates shown on this repo : 
 
 -the Screen folder contains the main screens in this app with full state management .
