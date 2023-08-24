@@ -14,19 +14,19 @@ users can also search for products using title or price .
 
 ### In the assets folder : 
 
--fonts we used in this project.
--images we used to complete the user experience.
--json files used for translating .
+- fonts we used in this project.
+- images we used to complete the user experience.
+- json files used for translating .
 
 ### In the Lib folder : 
 
--the Core folder contains the main colors and text styles uesd in this project .
--the Models folder contains the class models for each main object of this project .
--the Providers folder contains the provider used to get information from the Backend created by my associates shown on this repo : 
+- the Core folder contains the main colors and text styles uesd in this project .
+- the Models folder contains the class models for each main object of this project .
+- the Providers folder contains the provider used to get information from the Backend created by my associates shown on this repo : 
 
--the Screen folder contains the main screens in this app with full state management .
--the Widgets foldercontains many usefull custome widgets that we have sed to make the app more interractive and engaging .
--the Translation folder contains the code used for localization in this project .
+- the Screen folder contains the main screens in this app with full state management .
+- the Widgets foldercontains many usefull custome widgets that we have sed to make the app more interractive and engaging .
+- the Translation folder contains the code used for localization in this project .
 
 ## Getting Started
 
